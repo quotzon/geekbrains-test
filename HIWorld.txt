@@ -1,2 +1,4 @@
 print("HiWorld");
-print("Hi everybody!");
+print("Hey everybody!");
+print("Привет мир!");
+print("Хей, мир!");
